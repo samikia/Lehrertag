@@ -63,8 +63,13 @@
   .img-wrapper{
     display: flex;
     flex-basis: 40%;
-    justify-content: center
+    justify-content: start
   }
+.img-wrapper-second{
+  display: flex;
+    flex-basis: 40%;
+  justify-content: end
+}
   .des-wrapper{
     display: flex;
   }
