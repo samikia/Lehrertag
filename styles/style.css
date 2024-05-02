@@ -42,6 +42,7 @@
     height: 26rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    object-fit: contain;
   }
   .img-fluid{
     border-radius: 50%;
